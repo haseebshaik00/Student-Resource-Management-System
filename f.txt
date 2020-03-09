@@ -1,0 +1,2 @@
+Remove button not working
+After Confirmation Cart doesn't gets emptied
